@@ -1,6 +1,6 @@
 # My Database Assignment
 ## Introduction
-    I am Anisha, I have interested in learning new technologies and implement in our daily lives.
+    I am Anisha, I have been interested in learning new technologies and implement in our daily lives.
     I had a dream to develop the new application which can make the situations easier.
     I had an experience in python, IOT, debugging on hands.
     My hobbies is browsing and searching for new ideas and implement them, playing badminton.
